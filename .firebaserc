@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-fireshiptictac": {
+      "hosting": {
+        "angular-fireship-tictac": [
+          "angular-fireshiptictac"
+        ]
+      }
+    }
+  }
+}
